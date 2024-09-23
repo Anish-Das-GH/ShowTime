@@ -146,7 +146,7 @@ const MoviePage = () => {
                   Visa Stream Offer
                 </h3>
                 <p className="text-gray-600">
-                  Get 50% off up to INR 150 on all RuPay card* on BookMyShow
+                  Get 50% off up to INR 150 on all RuPay card* on ShowTime
                   Stream.
                 </p>
               </div>
@@ -158,7 +158,7 @@ const MoviePage = () => {
               <div className="flex flex-col items-start">
                 <h3 className="text-gray-700 text-xl font-bold">Film Pass</h3>
                 <p className="text-gray-600">
-                  Get 50% off up to INR 150 on all RuPay card* on BookMyShow
+                  Get 50% off up to INR 150 on all RuPay card* on ShowTime
                   Stream.
                 </p>
               </div>

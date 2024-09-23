@@ -9,7 +9,7 @@ const PaymentModel = ({ setIsOpen, isOpen, price }) => {
 
   const launchRazorPay = () => {
     let options = {
-      key: "rzp_test_3mwAsetJPN4JkR",
+      key: "rzp_test_ekyID8CJw2DH3p",
       amount: price * 100,
       currency: "INR",
       name: "ShowTime",
